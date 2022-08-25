@@ -1,0 +1,19 @@
+Help-Message:
+  Title:
+    - "&e==========&6&l(Bank Help)&e=========="
+  Help:
+	- "&6&l/Bank Help&r: Brings Up This Menu"
+  Gui:
+	- "&6&l/Bank&r: Opens Up Bank GUI"
+  Balance:
+    - "&6&l/Bank Balance&r: Shows Current Bank Balance"
+  Withdraw:
+	- "&6&l/Bank Withdraw &eAMOUNT&r: Withdraw A Specific Amount"
+  Deposit:
+	- "&6&l/Bank Deposit &eAMOUNT&r: Deposit A Specific Amount"
+  Admin:
+    - "&6&l/Bank Relaod&r: Reload The Config File (\"confi.yml\")"
+    - "&6&l/Bank Balance &2PLAYER&r: View Specific Online Player's Balance"
+    - "&6&l/Bank Balance &2UUID&r: View Specific Offline Player's Balance"
+    - "&6&l/Bank Set &2PLAYER AMOUNT&r: Set Specific Online Player's Balance"
+    - "&6&l/Bank Set &2UUID AMOUNT&r: Set Specific Offline Player's Balance"

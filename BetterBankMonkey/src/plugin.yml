@@ -1,0 +1,8 @@
+main: com.stinkymonkey.Bank.Monkey
+name: BetterBankMonkey
+version: 1.16.3
+author: KingMonkeyy
+
+commands:
+  bank:
+    descirption: Main Bank Command
